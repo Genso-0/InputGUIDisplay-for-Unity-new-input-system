@@ -8,7 +8,7 @@ C#
  Attach InputGUIDisplay to a gameobject in the scene.
  Assign an InputActionAsset to the input field in the InputGUIDisplay component. 
  Set the showGUI to true to have the script draw a GUI element in the game scene. 
- ![alt text]
+ ![alt text](https://github.com/Genso-0/InputGUIDisplay-for-Unity-new-input-system/blob/master/InputGUIExample.PNG)
 <!-- LICENSE -->
 ## License
 
